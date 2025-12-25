@@ -21,4 +21,4 @@ This project helped me understand:
 This project is created as part of my learning journey in web development and serves as a beginner-level portfolio website.
 
 How to view 
-you can access my portfolio website by visiting [link] feel free to explore the content and get in touch!
+you can access my portfolio website by visiting [https://manjulashanmugam.github.io/Portfolio-simple-website/] feel free to explore the content and get in touch!
